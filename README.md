@@ -11,11 +11,11 @@ This tutorial contains simple examples of using OpenShift Platform. For more det
 
 ## Content
 1. [Setup](./content/preflight.md)
-    * [Architecture](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/preflight.md#architecture)
-    * [Security](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/preflight.md#security)
-    * [Install Docker Engine](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/preflight.md#install-docker)
-    * [Host Access](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/preflight.md#host-access)
-    * [Install OpenShift](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/preflight.md#install-openshift)
+    * [Architecture](./content/preflight.md#architecture)
+    * [Security](./content/preflight.md#security)
+    * [Install Docker Engine](./content/preflight.md#install-docker)
+    * [Host Access](./content/preflight.md#host-access)
+    * [Install OpenShift](./content/preflight.md#install-openshift)
 2. [Core concepts](https://github.com/kalise/OpenShiftPlatform-Tutorial/blob/master/content/basics.md)
     * [Create a demo user](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/basics.md#create-a-demo-user)
     * [Create a demo project](https://github.com/kalise/OpenShiftPlatform-Tutorial/blob/master/content/basics.md#create-a-demo-project)
