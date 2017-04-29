@@ -10,7 +10,7 @@ OpenShift Lab Tutorial based on CentOS distribution.
 This tutorial contains simple examples of using OpenShift Platform. For more details on the OpenShift Platform, please refer to the product documentation at [docs.openshift.com](https://docs.openshift.com/index.html).
 
 ## Content
-1. [Setup](https://github.com/kalise/OpenShiftPlatform-Tutorial/blob/master/content/preflight.md)
+1. [Setup](./content/preflight.md)
     * [Architecture](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/preflight.md#architecture)
     * [Security](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/preflight.md#security)
     * [Install Docker Engine](https://github.com/kalise/OpenShift-Tutorial/blob/master/content/preflight.md#install-docker)
